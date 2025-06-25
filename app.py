@@ -6,10 +6,9 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-# Load model
+# Loading model
 model = load_model("emotion_model.h5")
 
-# Ensure this matches your training label order
 emotion_labels = ['neutral', 'calm', 'happy', 'sad', 'angry', 'fear','Disgust','Surprised']
 
 # Feature extraction function
