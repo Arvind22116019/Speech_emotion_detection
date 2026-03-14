@@ -90,6 +90,9 @@ A 2-minute demo video is included in the submission, showcasing:
 * How to use the test script
 * Using the Streamlit web app for prediction
 
+## Test_Demo
+![Alt text](Speech_demo.png)
+
 ---
 
 ## Dependencies
